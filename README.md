@@ -2,7 +2,7 @@
 
 - Con este script podras iniciar rapidamente tu maquina de dockerlabs
 
-- Te recomiendo añadirlo a tu .basrc o a tu .zshrc para ejecutarlo directamente siempre que quieras iniciar una maquina
+- Te recomiendo añadirlo a tu .bashrc o a tu .zshrc para ejecutarlo directamente siempre que quieras iniciar una maquina
 
 ----------------------------------------------------------
 
